@@ -19,6 +19,8 @@ A ready-to-use local voice recorder for Windows, featuring global hotkeys, minim
 *   **⌨️ Smart Hotkey Binding**: Click the hotkey field and simply press your desired key combination (e.g., `Ctrl+Shift+A`) to bind it automatically.
 *   **🔊 Real-time Feedback**: Toast notifications and tray icon changes provide instant status updates.
 
+releases：(https://github.com/ixiaoxie/MicRecoder-Windows-/releases)
+
 ## 📖 User Guide
 
 1.  **Launch**: Run `MicRecorder.exe` or `mic_recorder.py`.
