@@ -9,7 +9,7 @@ A ready-to-use local voice recorder for Windows, featuring global hotkeys, minim
 ## ✨ Features
 
 *   **🎧 High Quality Recording**: Lossless WAV recording powered by `PyAudio`.
-*   **⌨️ Global Hotkeys**: Custom global hotkeys (Default: `Ctrl+1` Start/Pause, `Ctrl+2` Stop) work even when the app is in the background or while gaming.
+*   **⌨️ Global Hotkeys**: Custom global hotkeys work even when the app is in the background or while gaming.
     *   *Stability Optimized*: Uses async threads to prevent hotkey timeouts or unhooking.
 *   **🛡️ Admin Rights**: Enforced Administrator privileges ensure hotkeys work on all surfaces, including Desktop and elevated apps.
 *   **📥 System Tray Integration**: Minimizes to the system tray on close. Right-click menu supported.
@@ -29,12 +29,12 @@ releases：(https://github.com/ixiaoxie/MicRecoder-Windows-/releases)
     *   Press your desired key combination directly (e.g., `Ctrl` + `F1`). The app will auto-detect it.
     *   Click "Save & Apply Hotkeys" updates to take effect.
 3.  **Start Recording**: 
-    *   Press your "Start" hotkey (Default `Ctrl+1`) or click the "Start" button.
+    *   Press your "Start" hotkey  or click the "Start" button.
     *   The status will turn red ("Recording..."), and the tray icon will update.
 4.  **Pause**: 
     *   Press the "Start" hotkey again or click "Pause". The status will show "Paused".
 5.  **Stop & Save**: 
-    *   Press the "Stop" hotkey (Default `Ctrl+2`) or click "Stop".
+    *   Press the "Stop" hotkey or click "Stop".
     *   The recording is automatically saved to your configured folder (Default: `Music\Recordings`).
 6.  **View Files**: Click the "Open Recordings Folder" button at the bottom to access your WAV files.
 
